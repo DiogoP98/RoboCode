@@ -1,6 +1,6 @@
 import robocode.*;
 
-//obter informacao completa sobre os inimigos apanhados no radar
+//get information about the enemies found in the radar
 class EnemyRobot extends AdvancedRobot{
 	double enemyX;
 	double enemyY;
